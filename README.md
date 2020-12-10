@@ -1,4 +1,4 @@
-# Magento 2 Mega Menu Extension by MageTop
+# Magento 2 Mega Menu Extension by Magetop
 
 **Magento Mega Menu** is an easy to use plugin for creating beautiful, customized menus for your site. With no setup required, tons of options to choose from, and the ability to show categories, subcategories and posts, Magento Mega Menu is a must have plugin that also boosts SEO and user engagement.
 
@@ -21,7 +21,7 @@
 - Compatible with different themes such as Porto, Ultimo, etc...
 - And many more feature ...
 
-## More features & Demo
+## More features & demo
 
 - Extension details : https://www.magetop.com/magento-2-mega-menu-extension.html
 - Frontend demo : http://livedemo.magetop.com/megamenu
