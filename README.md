@@ -27,7 +27,7 @@
 - Frontend demo : http://livedemo.magetop.com/megamenu
 - Backend demo : http://livedemo.magetop.com/megamenu/admin
 
-## Support & Contact info
+## Support & contact info
 
 - Need help setting up or want to customize this extension to meet your business needs? 
 - Get instant support with our Live Chat
