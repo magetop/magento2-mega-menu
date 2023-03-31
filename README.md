@@ -24,8 +24,8 @@
 ## More features & demo
 
 - Extension details : https://www.magetop.com/magento-2-mega-menu-extension.html
-- Frontend demo : https://livedemo.magetop.com/megamenu
-- Backend demo : https://livedemo.magetop.com/megamenu/admin
+- Frontend demo : https://livedemo.magetop.com/mega_menu_pro
+- Backend demo : https://livedemo.magetop.com/mega_menu_pro/admin
 
 ## Support & contact info
 
